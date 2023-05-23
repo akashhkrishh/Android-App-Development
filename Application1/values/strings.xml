@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Practical 1</string>
+    <string name="name">Enter Your Name : </string>
+    <string name="click">Click</string>
+    <string name="space"> </string>\
+    <string name="welcome">Welcome !</string>
+</resources>
